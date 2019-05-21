@@ -23,6 +23,7 @@
 hs_err_pid*
 
 
+
 .classpath
 .project
 .settings
@@ -31,3 +32,10 @@ target
 /.settings/
 /.classpath
 /.project
+
+*.settings
+*/.git/*
+*/target/*
+.git
+
+.gitignore
